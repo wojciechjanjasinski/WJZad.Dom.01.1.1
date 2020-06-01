@@ -4,6 +4,7 @@ class HW2 {
         System.out.println(true);
         System.out.println(1000);
         System.out.println(100.5555577777777D);
-        System.out.print("a"+"b"+"c"+"d");
+        System.out.println("a"+"b"+"c"+"d");
+        System.out.println("Wprowadzam nowe zmiany w kodzie programu");
     }
 }

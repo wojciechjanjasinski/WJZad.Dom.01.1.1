@@ -6,5 +6,6 @@ class HW2 {
         System.out.println("a"+"b"+"c"+"d");
         System.out.println("Wprowadzam nowe zmiany w kodzie programu");
         System.out.println("commit and push");
+        System.out.println("JetBrains s.r.o to spółka zarejestrowana w Republice Czeskiej w Pradze");
     }
 }
